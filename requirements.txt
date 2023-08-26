@@ -1,0 +1,8 @@
+keybert
+tensorflow
+datasets
+transformers
+pyLDAvis
+gensim
+nltk
+spacy
